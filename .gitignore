@@ -1,3 +1,5 @@
 .ipynb_checkpoints
-env
-
+env/
+.DS_Store
+Project-bad.ipynb
+*.log
