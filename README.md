@@ -11,6 +11,8 @@ This project made use of the following libraries that can be downloaded via pip 
 - seaborn
 - os
 - datetime
+-geopy
+
 These can be downloaded using the requirements file.
 
 ## Motivation
@@ -24,7 +26,7 @@ The revenue variable is a calculated variable that factors in a listing's price 
 The Project notebook file is a jupyter notebook that addresses the three questions with annotation. The requirements text file can be downloaded and used to install all additional libraries. The archive folder contains the kaggle dataset.
 
 ## Results
-A summary of the results can be found in the medium blog post here*. 
+A summary of the results can be found in the medium blog post here https://jjharrison-27479.medium.com/the-truth-behind-the-seattle-airbnb-market-and-how-you-can-use-it-to-your-advantage-e4e5ac5aeef2
 
 ## Acknowledgements
 Techniques used in the data analysis were based on teachings from the Udacity Introduction to Data Science Course. The data was sourced from the following link: https://www.kaggle.com/airbnb/seattle
